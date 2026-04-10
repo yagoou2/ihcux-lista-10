@@ -10,7 +10,7 @@ O objetivo do projeto é demonstrar, na prática, a aplicação de conceitos fun
 ## 👥 Equipe
 
 - João  
-- Jonhatan  
+- Jonathan  
 - Yago  
 - Lucas  
 - Carlos  
